@@ -67,15 +67,10 @@ The relationship between packet loss percentages and their corresponding quality
 
 The logistic function applied for speed-to-percentage conversion is:
 
-\[
-P(s) = \frac{L}{{1 + e^{-k(s - s_0)}}}
-\]
+$P(s) = \frac{L}{{1 + e^{-k(s - s_0)}}}$
 
 Both the ping-to-percentage and packet loss-to-percentage mappings employ the exponential decay function:
-
-\[
-P(p) = L \times e^{-k \times p}
-\]
+$P(p) = L \times e^{-k \times p}$
 
 Where:
 
