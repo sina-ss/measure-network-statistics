@@ -80,7 +80,3 @@ Where:
 - \( s_0 \) (only relevant for the logistic function) signifies the speed value where \( P(s) \) is half of \( L \).
 
 The machine learning approach was utilized to determine the parameters \( L \), \( k \), and \( s_0 \), ensuring a fitting curve to hypothetical data that represents our understanding of "poor", "average", and "ideal" performance levels.
-
----
-
-This updated `README.md` provides a comprehensive overview of your project. Adjust as needed to align with your platform's specifics.
